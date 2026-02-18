@@ -1,50 +1,36 @@
-<h2 align="left">Hi 👋! My name is Bruno Ceroni and I'm a programming enthusiast from Brazil 🇧🇷</h2>
-
-###
-
-<p align="left">
-🐍 I study and practice programming with Python <br>
-🎮 Gamer | 🐧 Linux vibe | 🤖 Tech enthusiast <br>
-Always learning and building small projects.
-</p>
+<h2 align="center">Hi 👋! My name is Bruno Ceroni and I'm a programming enthusiast from Brazil 🇧🇷</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaoticNoodley&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChaoticNoodley&layout=compact&langs_count=5&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaoticNoodley&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChaoticNoodley&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="https://i.redd.it/tj9uzzk1ellf1.gif"  />
 
 ###
-
-<h3 align="left">🛠 Languages & Tools</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
 </div>
 
 ###
-
-<h3 align="left">🌐 Social</h3>
 
 <div align="left">
   <a href="https://discord.gg/YHYRhJxGXc" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/static/v1?message=Comunidade&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://x.com/ButterMuffing" target="_blank">
-    <img src="https://img.shields.io/badge/X-ButterMuffing-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/static/v1?message=Xuitter&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
 
@@ -53,3 +39,11 @@ Always learning and building small projects.
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ChaoticNoodley/ChaoticNoodley/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://imgur.com/vVmM5Mj.png"  />
+</div>
+
+###
