@@ -2,7 +2,7 @@
   <img height="160" src="https://giffiles.alphacoders.com/171/171263.gif" />
   
   <h1>Bruno Ceroni</h1>
-  <h3>Python Developer in progress · Linux enthusiast · Building things that matter</h3>
+  <h3>C Developer in progress · Linux enthusiast · Building things that matter</h3>
 
   <a href="https://x.com/ButterMuffing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X+%7C+ButterMuffing&logo=twitter&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="X/Twitter" />
